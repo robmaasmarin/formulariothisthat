@@ -1,0 +1,45 @@
+
+body {
+    background-color: #393e46 !important;;
+  }
+
+
+header {
+    margin: 0 auto;
+    color: antiquewhite;
+    
+    
+}
+
+header h1 {
+    padding-top: 80px;
+    
+    text-align: center;
+    
+}
+
+.row {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #ff9a3c;
+  border: 12px solid azure;
+}
+
+.col-sm {
+    border: 2px dashed #393e46;
+    padding-top: 25px;
+}
+
+.thisorthat h1 {
+    text-align: center;
+}
+
+form p {
+    font-weight: bold;
+}
